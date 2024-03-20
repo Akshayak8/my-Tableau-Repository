@@ -23,10 +23,9 @@ This project explores various datasets using data analysis techniques in R and v
 ## How to Use
 
 1. Clone the repository to your local machine:
-   ```
+2. 
    git clone https://github.com/akshayak8/my-Tableau-Repository.git
-   ```
 
-2. Navigate to the directory containing the Datasets and Tableau workbooks.
+3. Navigate to the directory containing the Datasets and Tableau workbooks.
 
-3. Open the Tableau workbooks (.twb or .twbx files) in Tableau Desktop to explore the interactive dashboards and visualizations.
+4. Open the Tableau workbooks (.twb or .twbx files) in Tableau Desktop to explore the interactive dashboards and visualizations.
